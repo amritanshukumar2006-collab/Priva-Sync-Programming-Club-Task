@@ -1,3 +1,5 @@
+// Chatbot response controller
+
 const axios = require("axios");
 
 exports.chat = async (req, res) => {
